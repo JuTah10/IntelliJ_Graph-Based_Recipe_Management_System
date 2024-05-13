@@ -1,0 +1,25 @@
+Garlic Bread	Garlic Butter,Bread Dough,Mozzarella
+Pizza	Bread Dough,Tomato Sauce,Mozzarella
+Ginger Cookies	Ginger,Rye,Brown Sugar,Baking Powder,Salted Butter
+Mac & Cheese	Cheese Sauce,Noodles
+Cheese Bread	Bread Dough,Cheddar,Mozzarella
+Brownies	AP Flour,Butter,Chocolate,Coffee,Baking Powder,Eggs
+Pancakes	Baking Soda,Buttermilk,AP Flour,White Sugar,Salt
+Tzatziki	Yogurt,Dill,Cucumber,Garlic,Salt,Oil
+Chippy Cookies	AP Flour,Chocolate,Baking Soda,Butter,Eggs,White Sugar,Brown Sugar,Salt
+Spaghetti	Noodles,Tomato Sauce
+----------
+Bread Dough	Bread Flour,Water,White Sugar,Salt,Yeast,Oil
+Baking Powder	Baking Soda,Cream of Tartar
+Bechamel	Milk,Roux
+Bread Flour	AP Flour,Gluten
+Brown Sugar	Molasses,White Sugar
+Butter	Milk
+Cheese Sauce	Bechamel,Cheddar
+Mozzarella	Milk,Rennet,Citric Acid
+Noodles	AP Flour,Eggs,Water
+Pickles	Cucumber,Salt,Vinegar
+Relish	Pickles
+Roux	AP Flour,Butter
+Salted Butter	Butter,Salt
+Tomato Sauce	Tomato
